@@ -8,6 +8,6 @@ public class CheckNoInString {
 	}
 	
 	public static void main(String[] args) {
-		checkNos("This used kjdh 88789 hhsadjh89dy8db87Y89d8a");
+		checkNos("Testing Purpose");
 	}
 }
