@@ -28,6 +28,6 @@ public class DemoStringCharCount {
 	}
 	
 	public static void main(String[] args) {
-		System.out.println(getCharCount("Shridhara"));
+		System.out.println(getCharCount("GIT  Testing Purpose"));
 	}
 }
